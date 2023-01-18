@@ -1,2 +1,2 @@
 # learnhtml-css
-Proyecto Propuesto en programa One Oracle alura
+Proyecto Propuesto en programa fundamentos de programacion One Oracle alura
